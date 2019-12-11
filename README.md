@@ -18,5 +18,6 @@ Inception
 ## To Be Done
 
  * Second Life ( http://secondlife.com/ ) / OpenSIM (Kitely (?), etc et al) 3D GUI interface;
+ * Steam items interfaces;
  * https://github.com/PluralityNET/PluralityNET_VR/issues
  * …
