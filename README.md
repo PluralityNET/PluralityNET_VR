@@ -18,4 +18,5 @@ Inception
 ## To Be Done
 
  * Second Life ( http://secondlife.com/ ) / OpenSIM 3D GUI interface;
+ * https://github.com/PluralityNET/PluralityNET_VR/issues
  * …
