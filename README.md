@@ -13,3 +13,4 @@ Inception
 ## Thoughts
 
  * LambdaMOO.Distributed — URIs, URLs, URNs instead of integers as ids, locator accessors, names for objects
+ * LambdaMOO.REST.Handler
