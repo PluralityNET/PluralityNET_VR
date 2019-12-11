@@ -8,4 +8,4 @@ A virtual reality outlet for PluralityNET
  
 ## Thoughts
 
- * LambdaMOO.Distributed — URIs, URLs, URNs instead of integers as ids, accessors, names for objects
+ * LambdaMOO.Distributed — URIs, URLs, URNs instead of integers as ids, locator accessors, names for objects
