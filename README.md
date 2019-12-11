@@ -2,6 +2,10 @@
 
 A virtual reality outlet for PluralityNET
 
+## Project Status
+
+Inception
+
 ## Links
 
  * One of Lambda objects: https://github.com/openmindproject/Project.GodAndAdam.Distributed
