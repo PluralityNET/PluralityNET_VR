@@ -14,3 +14,8 @@ Inception
 
  * LambdaMOO.Distributed — URIs, URLs, URNs instead of integers as ids, locator accessors, names for objects
  * LambdaMOO.REST.Handler
+
+## To Be Done
+
+ * Second Life ( http://secondlife.com/ ) / OpenSIM 3D GUI interface;
+ * …
